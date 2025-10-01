@@ -1,0 +1,309 @@
+    1  npm create ton@latest
+    2  npm create ton@latest
+    3  npm create ton@latest
+    4  npm create ton@lates
+    5  npm create ton@lates
+    6  yarn blueprint help
+    7  python --version
+    8  python3 --version
+    9  python3 -m ensurepip --upgrade
+   10  pip install toncli
+   11  toncli:pip install toncli
+   12  toncli --version
+   13  pip install toncli
+   14  toncli network testnet
+   15   toncli
+   16   toncli
+   17   toncli
+   18   toncli
+   19   toncli
+   20  python3 --version
+   21  pip3 --version
+   22  pip3 install toncli
+   23  toncli --version
+   24  toncli network testnet
+   25  python3 --version
+   26  pip3 --version
+   27  pip3 install toncli
+   28  toncli --version
+   29  pip install toncli
+   30  toncli network testnet
+   31  mkdir my_ton_token\ncd my_ton_token
+   32  toncli start
+   33  git clone https://github.com/ton-blockchain/ton.git\ncd ton\ncmake .\nmake func
+   34  /Users/yourusername/ton/build/func
+   35  /Users/yourusername/ton/build/func
+   36  /Users/nickutkin/ton/build/func
+   37  cmake --version
+   38  brew install cmake
+   39  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   40  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   41  brew --version
+   42  cmake --version
+   43  brew install cmake
+   44  brew --version
+   45  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   46  brew --version
+   47  homebrew --version
+   48  brew install cmake
+   49  brew install cmake
+   50  cmake --version
+   51  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   52  brew install cmake
+   53  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   54  xcode-select --install
+   55  cmake --version\nclang --version
+   56  git clone https://github.com/ton-blockchain/ton.git
+   57  cd ton
+   58  cmake .\nmake func
+   59  cd ton cmake .\nmake func
+   60  cd ton
+   61  cd ~
+   62  cd ~ls
+   63  cd ~
+   64  ls
+   65  cmake --version\nclang --version
+   66  git clone https://github.com/ton-blockchain/ton.git
+   67  rm -rf ton
+   68  rm -rf ton
+   69  git clone https://github.com/ton-blockchain/ton.git
+   70  cd ton
+   71  git pull
+   72  cd ton
+   73  cmake .
+   74  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   75  brew --version
+   76  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   77  brew --version
+   78  ls /usr/local/bin/brew
+   79  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   80  nano ~/.zshrc
+   81  export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
+   82  nano ~/.bash_profile
+   83  nano ~/.zshrc
+   84  source ~/.zshrc  # Если используешь zsh
+   85  source ~/.zshrc
+   86  brew --version
+   87  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"\n/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   88  cd ton
+   89  cmake .
+   90  cmake 
+   91  brew --version
+   92  brew install cmake
+   93  cmake --version
+   94  ls /usr/local/bin/brew
+   95  nano ~/.zshrc
+   96  which brew
+   97  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+   98  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   99  brew --version
+  100  which brew
+  101  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+  102  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  103  which brew
+  104  mkdir ~/homebrew\ncurl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C ~/homebrew
+  105  nano ~/.zshrc
+  106  nano ~/.zshrc
+  107  source ~/.zshrc
+  108  brew --version
+  109  which brew
+  110  brew --version
+  111  brew install node
+  112  node -v\nnpm -v
+  113  git clone https://github.com/ton-blockchain/ton.git\ncd ton\n./lite-client/lite-client -C ./lite-client/ton-lite-client-test1.config.json
+  114  npm install -g tondev
+  115  npm install -g tondev
+  116  python3 --version
+  117  pip3 install toncli
+  118  toncli --version
+  119  brew install --cask dbeaver-community
+  120  brew install --cask dbeaver-community
+  121  brew install --cask dbeaver-community
+  122  brew install --cask dbeaver-community
+  123  brew install --cask dbeaver-community
+  124  brew install --cask dbeaver-community
+  125  open -a DBeaver.app
+  126  open -a DBeaver.app
+  127  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  128  git-version
+  129  gir --version
+  130  git --version
+  131  help
+  132  cd documents
+  133  man ls
+  134  man ls
+  135  ls
+  136  clear
+  137  ls
+  138  cd Desktop
+  139  ls
+  140  cd ..
+  141  ls
+  142  cd ~
+  143  ls
+  144  cd Desktop
+  145  ls
+  146  cd Теория\ QA
+  147  ls
+  148  cd Desktop
+  149  ls
+  150  clear
+  151  ls
+  152  ckear
+  153  clear
+  154  cd ~
+  155  cd
+  156  ls
+  157  cd Desktop
+  158  \pwd
+  159  cd
+  160  cd Documents
+  161  pwd
+  162  cd ..
+  163  ls
+  164  cd Desktop
+  165  mkdir Lesson
+  166  ls
+  167  mkdir Lesson2
+  168  ls
+  169  touch empty.txt
+  170  la
+  171  ls
+  172  clear
+  173  ls
+  174  vim empty.txt
+  175  nano empty.txt
+  176  nano empty.txt
+  177  cat empty.txt
+  178   cp emty.txt
+  179  pwd
+  180  cp /Users/nickutkin/Desktop/empty.txt /Users/nickutkin/Downloads
+  181  mv /Users/nickutkin/Desktop/empty.txt /Users/nickutkin/Dekstop/Lesson
+  182  mv /Users/nickutkin/Desktop/empty.txt /Users/nickutkin/Dekstop/Lesson
+  183  mv /Users/nickutkin/Desktop/empty.txt /Users/nickutkin/Downloads
+  184  rm empty.txt
+  185  ls
+  186  ..
+  187  ..
+  188   .. 
+  189  ls
+  190  cd
+  191  ls
+  192  ls Downloads
+  193  ls
+  194  clear
+  195  ping
+  196  ping google.com
+  197  date
+  198  system profiler
+  199  system_ profiler
+  200  system_profiler
+  201  clear
+  202  df-h
+  203  df -h
+  204  clear
+  205  ls
+  206  cd Dekstop
+  207  cd Dekstop
+  208  ls
+  209  cd Desktop
+  210  mkdir Git
+  211  cd Git
+  212  git confing --global user.name "Nikita Utkin"
+  213  git config --global user.name "Nikita Utkin"
+  214  git config --global user.email utkinduckduckin@gmai.com
+  215  git glone https://github.com/duckduckin/Lesson3.1.git
+  216  git clone https://github.com/duckduckin/Lesson3.1.git
+  217  git status
+  218  cd Lesson3.1
+  219  git status
+  220  touch New.txt
+  221  git status
+  222  git add New.txt
+  223  git status
+  224  git commit -m "New file created"
+  225  git status
+  226  git log
+  227  git branch
+  228  git checkout -b new_branch
+  229  git branch
+  230  git checkout main
+  231  git branch
+  232  git checkout new_branch
+  233  nano New.txt
+  234  git status
+  235  git commit -m "New modified"
+  236  git status
+  237  git branch
+  238  chekout main
+  239  checkout main
+  240  git checkout main
+  241  git merge new_branch
+  242  git branch
+  243  git status
+  244  git commit
+  245  git checkout new_branch
+  246  git merge main
+  247  git status
+  248  git commit
+  249  git checkout main
+  250  git status
+  251  git commit -m "New modified"
+  252  git add new.txt 
+  253  git status
+  254  git add New.txt
+  255  git status
+  256  git commit -m "New modified"
+  257  git push
+  258   history -c && rm ~/.bash_history
+  259   history -c && rm ~/.bash_history
+  260  clear
+  261  cd
+  262  ls
+  263   ls Desktop
+  264  ls
+  265  cd Desktop
+  266  mkdir Git2.0
+  267  cd Git2.0
+  268  history -c && rm ~/.bash_history
+  269  git config
+  270  git --globlal
+  271  git name
+  272  git --user name
+  273  git config --globlal user.name "Nikita Utkin"
+  274  git --global user.name "Nikita Utkin"
+  275  clear
+  276  git config --global user.name "Nikita Utkin"
+  277  git config --global user.email utkinduckduckin@gmail.com
+  278  git clone https://github.com/duckduckin/HW_10.git
+  279  cd
+  280  ls
+  281  cd Desktop
+  282  cd Git2.0
+  283  cd HW_10
+  284  touch text_ignore.txt
+  285  nano text_ignore.txt
+  286  git status
+  287  nano text_ignore.txt
+  288  git status
+  289  git status
+  290  git add
+  291  git add text_ignore.txt
+  292  git status
+  293  git commit -m "created"
+  294  touch main_test.txt
+  295  git add main_test.txt
+  296  git commit -m "created"
+  297  git checkout -b <developer>
+  298  git checkout -b "developer"
+  299  git checkout "developer"
+  300  touch develop_test.txt
+  301  git add develop_test.txt
+  302  git commit -m "created"
+  303  nano develop_test.txt
+  304  git status
+  305  git add develop_test.txt
+  306  git commit -m "created"
+  307  git checkout main
+  308  git merge developer
+  309  git log
